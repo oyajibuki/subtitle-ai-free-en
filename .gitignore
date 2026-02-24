@@ -1,0 +1,19 @@
+__pycache__/
+temp_files/
+ffmpeg.exe
+*.bat
+.streamlit/secrets.toml
+debug_ffmpeg.py
+check_moviepy.py
+inspect_moviepy.py
+check_install.py
+
+# --- Pro Edition Files (do not upload) ---
+subtitle_app.py
+run_pro.py
+auth_manager.py
+debug_supabase.py
+start_pro.bat
+build_pro.bat
+AI_Subtitle_Pro.spec
+dist/
